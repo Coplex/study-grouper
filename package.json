@@ -1,0 +1,22 @@
+{
+  "name": "study-grouper",
+  "version": "1.0.0",
+  "description": "Content for the Front-End Challenge project entitled StudyGrouper",
+  "main": "index.js",
+  "dependencies": {
+    "static-api": "^0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coplex/study-grouper.git"
+  },
+  "author": "David Vanoni <david.vanoni@coplex.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Coplex/study-grouper/issues"
+  },
+  "homepage": "https://github.com/Coplex/study-grouper#readme"
+}
