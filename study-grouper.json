@@ -5,7 +5,33 @@
             "groups": [
                 {
                     "name": "Photoshop 101",
-                    "room": "101"
+                    "description": "Learning the basics of Photoshop.",
+                    "room": 101,
+                    "pariticpants": [
+                        "Cayla Ewing",
+                        "Justin Kellner",
+                        "Lesha Lyashevsky"
+                    ]
+                },
+                {
+                    "name": "Responsive Design",
+                    "description": "How to make your designs look great, no matter where they are.",
+                    "room": 725,
+                    "pariticpants": [
+                        "Cayla Ewing",
+                        "David Vanoni",
+                        "Matthew Giacomazzo"
+                    ]
+                },
+                {
+                    "name": "Starting with Sketch",
+                    "description": "Getting started with the current hot design tool.",
+                    "room": 725,
+                    "pariticpants": [
+                        "Cayla Ewing",
+                        "David Vanoni",
+                        "Matthew Giacomazzo"
+                    ]
                 }
             ]
         },
@@ -24,22 +50,52 @@
                 },
                 {
                     "name": "AngularJS",
+                    "description": "An introduction to the popular structural framework for dynamic web apps.",
                     "room": 123,
-                    "participants": [
-                        
+                    "pariticpants": [
+                        "Brad Taylor",
+                        "David Caliborne",
+                        "Brian Williams"
                     ]
                 },
                 {
                     "name": "Web Fundamentals",
-                    "room": 234
+                    "description": "An introduction to HTML, CSS, and JS.",
+                    "room": 234,
+                    "pariticpants": [
+                        "Brad Taylor",
+                        "David Caliborne",
+                        "Brian Williams"
+                    ]
                 },
                 {
                     "name": "Web Fundamentals",
-                    "room": 123
+                    "description": "An introduction to HTML, CSS, and JS.",
+                    "room": 385,
+                    "pariticpants": [
+                        "Alison Conley",
+                        "David Weirich",
+                        "Matthew Giacomazzo"
+                    ]
+                },
+                {
+                    "name": "Starting with Swift",
+                    "description": "For those who are new to Apple's new programming language.",
+                    "room": 935,
+                    "pariticpants": [
+                        "David Vanoni",
+                        "Steven Templeman"
+                    ]
                 },
                 {
                     "name": "PHP Fundamentals",
-                    "room": 567
+                    "description": "An introduction to PHP for web development.",
+                    "room": 567,
+                    "pariticpants": [
+                        "Archie Vasyatkin",
+                        "Bhuvan Sachdeva",
+                        "David Vanoni"
+                    ]
                 }
             ]
         },
