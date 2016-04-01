@@ -1,6 +1,8 @@
 # StudyGrouper
 Content for the Front-End Challenge project entitled StudyGrouper
 
+View online at http://coplex.github.io/study-grouper/
+
 --
 
 To generate `data` directory structure and update `index.html`, run:
