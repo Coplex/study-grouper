@@ -10,7 +10,10 @@
                     "pariticpants": [
                         "Cayla Ewing",
                         "Justin Kellner",
-                        "Lesha Lyashevsky"
+                        "Lesha Lyashevsky",
+                        "Matthew Giacomazzo",
+                        "Clifford Wong",
+                        "Brittany Nunley"
                     ]
                 },
                 {
@@ -24,13 +27,23 @@
                     ]
                 },
                 {
+                    "name": "Typography",
+                    "description": "Learn the best ways to make your content a pleasure to read.",
+                    "room": 296,
+                    "pariticpants": [
+                        "Justin Kellner",
+                        "John Bellaud",
+                        "Brittany Nunley"
+                    ]
+                },
+                {
                     "name": "Starting with Sketch",
                     "description": "Getting started with the current hot design tool.",
-                    "room": 725,
+                    "room": 587,
                     "pariticpants": [
-                        "Cayla Ewing",
-                        "David Vanoni",
-                        "Matthew Giacomazzo"
+                        "Daniel Rivenbark",
+                        "Matthew Giacomazzo",
+                        "Steven Templeman"
                     ]
                 }
             ]
@@ -101,7 +114,65 @@
         },
         "marketing": {
             "name": "Marketing",
-            "groups": []
+            "groups": [
+                {
+                    "name": "Predicting Consumer Behavior",
+                    "description": "Discuss strategies for predicting consumer behavior and decision making processes.",
+                    "room": 925,
+                    "pariticpants": [
+                        "Rick Body",
+                        "Chris Wilson",
+                        "Adam Lilly",
+                        "Zach Ferres",
+                        "Jay Beaupre"
+                    ]
+                },
+                {
+                    "name": "Data Mining",
+                    "description": "Use data to analyze consumer buying patterns.",
+                    "room": 334,
+                    "pariticpants": [
+                        "Chris Wilson",
+                        "Rick Body",
+                        "Clifford Wong",
+                        "John Bellaud"
+                    ]
+                },
+                {
+                    "name": "Marketing Strategies",
+                    "description": "Intoduction to marketing strategies.",
+                    "room": 874,
+                    "pariticpants": [
+                        "Daniel Rivenbark",
+                        "Kyle King"
+                    ]
+                },
+                {
+                    "name": "Social Media",
+                    "description": "Using social media to promote your brand.",
+                    "room": 286,
+                    "pariticpants": [
+                        "Brittany Nunley",
+                        "Kyle King",
+                        "Meghdad Abbaszadegan",
+                        "Alexandra Milak",
+                        "Rick Stoddard",
+                        "Joe Famalette",
+                        "Catherine Cacheris",
+                        "Michael Neel"
+                    ]
+                },
+                {
+                    "name": "Marketing Strategies",
+                    "description": "Intoduction to marketing strategies.",
+                    "room": 735,
+                    "pariticpants": [
+                        "Michael Ashbaugh",
+                        "Zach Ferres",
+                        "Naiha Iqbal"
+                    ]
+                }
+            ]
         }
     }
 }
