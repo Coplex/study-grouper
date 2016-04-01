@@ -14,11 +14,20 @@
             "groups": [
                 {
                     "name": "Advanced CSS",
-                    "room": 354
+                    "description": "Responsive, Preprocessors and Cross-Browser.",
+                    "room": 354,
+                    "pariticpants": [
+                        "Alison Conley",
+                        "David Weirich",
+                        "Matthew Giacomazzo"
+                    ]
                 },
                 {
                     "name": "AngularJS",
-                    "room": 123
+                    "room": 123,
+                    "participants": [
+                        
+                    ]
                 },
                 {
                     "name": "Web Fundamentals",
